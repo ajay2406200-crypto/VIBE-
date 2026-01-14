@@ -1,0 +1,7 @@
+{
+  "name": "Vibe 3",
+  "description": "A mood-driven music streaming platform focused on independent artistry and raw emotions. Discover unheard voices without the corporate noise.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
